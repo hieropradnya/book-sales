@@ -1,0 +1,13 @@
+Romantis; Dilan 1990; 20; 71000
+Romantis; Winter in Tokyo; 35; 74000
+Edukasi; Algoritma & Pemrograman; 8; 110000
+Edukasi; Filosofi Teras; 0; 98000
+Horor; Hantu di Rumah Kos; 17; 60000
+Horor; Danur; 34; 66000
+Horor; Kisah Penghuni Kos; 10; 18000
+Edukasi; Atomic Habits; 13; 98000
+Fantasi; Bulan; 6; 85000
+Fantasi; Tujuh Kelana; 9; 27000
+Edukasi; How To Programming; 32; 99000
+
+Horor; Danar Setan; 7; 20000
